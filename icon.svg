@@ -23,7 +23,7 @@
   <rect x="71.662" y="319.018" width="353.315" height="125.397" style="stroke-linecap: round; stroke-linejoin: round; fill-rule: nonzero; stroke: rgb(124, 80, 61); fill: rgb(179, 136, 117); stroke-width: 5.31004px; visibility: hidden;" rx="62.699" ry="62.699"/>
   <g transform="matrix(0.564967, 0, 0, 0.564967, 18.144489, 279.536926)" style="">
     <title>Text</title>
-    <text style="fill: none; font-family: &quot;Roboto Slab&quot;; font-size: 265.502px; font-weight: 700; line-height: 424.804px; stroke: rgb(0, 0, 0); stroke-width: 17.7001px; white-space: pre;" x="122.859" y="257.141">2024</text>
-    <text style="fill: rgb(27, 199, 76); font-family: &quot;Roboto Slab&quot;; font-size: 265.502px; font-weight: 700; line-height: 424.804px; stroke-width: 5.31004px; white-space: pre;" x="122.822" y="257.096">2024</text>
+    <text style="fill: none; font-family: &quot;Roboto Slab&quot;; font-size: 265.502px; font-weight: 700; line-height: 424.804px; stroke: rgb(255, 255, 255); stroke-width: 17.7001px; white-space: pre;" x="122.859" y="257.141">2024</text>
+    <text style="fill: rgb(0, 162, 46); font-family: &quot;Roboto Slab&quot;; font-size: 265.502px; font-weight: 700; line-height: 424.804px; stroke-width: 5.31004px; white-space: pre;" x="122.822" y="257.096">2024</text>
   </g>
 </svg>
